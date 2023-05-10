@@ -1,4 +1,4 @@
-const URL_API = "https://restcountries.com/v3.1/name";
+const URL_API = 'https://restcountries.com/v3.1/name';
 
 function fetchCountries(name) {
 
