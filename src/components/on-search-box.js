@@ -1,7 +1,7 @@
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
-import fetchCountries from "../services/fetchCountries";
-import { renderHTMLList, renderHTMLItem } from "./renderhtml";
+import fetchCountries from "../services/fetch-countries";
+import { renderHTMLList, renderHTMLItem } from "./render-html";
 
 import { refs } from '../models/refs'
 
